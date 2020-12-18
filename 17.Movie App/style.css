@@ -3,7 +3,7 @@
 
 :root {
     --primary-color : #222831;
-    --secondar-color : #28abb9;
+    --secondar-color : #54e346;
     --tertiary-color : #393e46;
 }
 
@@ -31,6 +31,7 @@ h2 {
     margin-left: 20px;
     font-size: 3rem;
     font-family: 'Bungee Outline', cursive;
+    text-shadow: 2px 2px 8px rgba( 0, 0, 0, 0.4);
 }
 .search {
     background-color: #eff8ff;
